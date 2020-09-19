@@ -1,0 +1,46 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    background-color: #121212;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+
+}
+
+#content {
+    position: absolute;
+    top: 5vh;
+    bottom: 5vh;
+    left: 20px;
+    right: 20px;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-gap: 10px;
+}
+
+h1 {
+    font-size: 25pt;
+    color: inherit;
+    padding: 10px;
+    padding-bottom: 20px;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    opacity: 0.7;
+    font-size: 20pt;
+    font-weight: bold;
+    padding: 10px;
+}
