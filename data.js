@@ -18,6 +18,7 @@ const data = [{
     live: "https://ethz.zoom.us/j/96200716672?pwd=eitnUmlSTXdVWkRNbCs1N3VRRi9JUT09",
     video: "",
     moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=12705",
+    exercise: "https://ethz.zoom.us/j/9443684796",
     expert: "https://expert.ethz.ch"
 
 }, {
@@ -26,8 +27,7 @@ const data = [{
     live: "https://video.ethz.ch/live/lectures/zentrum/hg/hg-e-7/projector.html",
     video: "",
     moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=13259",
-    exercise: "https://ethz.zoom.us/j/94013900509",
-    expert: "https://expert.ethz.ch"
+    exercise: "https://ethz.zoom.us/j/94013900509"
 }, {
     name: "History of Mathematics",
     homepage: "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2020W&ansicht=EINSCHRAENKUNGEN&lerneinheitId=142539&lang=de",
