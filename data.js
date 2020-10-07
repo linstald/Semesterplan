@@ -1,7 +1,7 @@
 const data = [{
     name: "Analysis II",
     homepage: "https://metaphor.ethz.ch/x/2020/hs/401-0213-16L/",
-    live: "https://video.ethz.ch/live/lectures/zentrum/etf/etf-c-1/projector.html",
+    live: "https://video.ethz.ch/live/lectures/zentrum/etf/etf-c-1.html",
     video: "https://video.ethz.ch/lectures.html",
     exercise: "https://ethz.zoom.us/j/93537974501",
     moodle: ""
@@ -24,7 +24,7 @@ const data = [{
 }, {
     name: "Systems Programming and Computer Architecture",
     homepage: "https://systems.ethz.ch/education/courses/2020-fall/systems-programming-and-computer-architecture.html",
-    live: "https://video.ethz.ch/live/lectures/zentrum/hg/hg-e-7/projector.html",
+    live: "https://video.ethz.ch/live/lectures/zentrum/hg/hg-e-7.html",
     video: "",
     moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=13259",
     exercise: "https://ethz.zoom.us/j/94013900509"
