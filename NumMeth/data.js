@@ -2,7 +2,7 @@ const data = [{
     name: "Numerical Methods for CSE",
     homepage: "http://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&lerneinheitId=140998&semkez=2020W&ansicht=KATALOGDATEN&",
     live: "https://video.ethz.ch/live/lectures/zentrum/hg/hg-f-1/projector.html",
-    video: "",
+    video: "https://polybox.ethz.ch/index.php/s/UaKoxJDL4bERlku",
     exercise: "",
     moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=12705",
     download: "https://www.sam.math.ethz.ch/~grsam/NCSE20/",
