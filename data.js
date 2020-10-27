@@ -8,7 +8,7 @@ const data = [{
 }, {
     name: "Theoretische Informatik",
     homepage: "https://courses.ite.inf.ethz.ch/theoInf20/",
-    live: "https://video.ethz.ch/live/lectures/zentrum/hg/hg-e-5.html",
+    live: "https://ethz.zoom.us/j/95324347950",
     exercise: "https://us02web.zoom.us/j/87931277957?pwd=UURzdXRaOVNCQzdzbVFjYlV1RE44UT09",
     video: "",
     moodle: ""
