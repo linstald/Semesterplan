@@ -24,7 +24,7 @@ const data = [{
 }, {
     name: "Systems Programming and Computer Architecture",
     homepage: "https://systems.ethz.ch/education/courses/2020-fall/systems-programming-and-computer-architecture.html",
-    live: "https://video.ethz.ch/live/lectures/zentrum/hg/hg-e-7.html",
+    live: "https://ethz.zoom.us/j/96590075562?pwd=WWxSU2FxVXhKNHY4VVZ3ZW8zR3JCUT09",
     video: "",
     moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=13259",
     exercise: "https://ethz.zoom.us/j/94013900509"
