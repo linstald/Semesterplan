@@ -1,10 +1,7 @@
-const colors = ["#bb86fc", "#FF3F80", "#268bd2", "#dc322f", "#FFF", "#FFF", "#FFF"]
-
 function setup() {
     let content = document.getElementById("content");
     content.style.gridTemplateColumns = "repeat(" + data.length + ", 1fr)"
-    for (let i = 0; i < data.length; i++) {
-        let lecture = data[i];
+    for (let [i, lecture] of data.entries()) {
         let lectureDiv = createComp("div")
         lectureDiv.style.color = toHSB(i, 50, data.length);
 

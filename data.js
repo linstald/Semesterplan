@@ -1,38 +1,37 @@
 const data = [{
-    name: "Analysis II",
-    homepage: "https://metaphor.ethz.ch/x/2020/hs/401-0213-16L/",
-    live: "https://video.ethz.ch/live/lectures/zentrum/etf/etf-c-1.html",
-    video: "https://video.ethz.ch/lectures.html",
-    exercise: "https://ethz.zoom.us/j/93537974501",
-    moodle: ""
+    name: "Computer Networks",
+    homepage: "https://nd.ethz.ch/courses/computer-networks.html",
+    monday: "https://ethz.zoom.us/j/93607416417",
+    friday: "https://ethz.zoom.us/j/99926085386",
+    exercise: "https://ethz.zoom.us/j/96621303813",
+    gitlab: "https://gitlab.inf.ethz.ch/PRV-PERRIG/networks-course/cn-2021-resources/-/tree/master/"
 }, {
-    name: "Theoretische Informatik",
-    homepage: "https://courses.ite.inf.ethz.ch/theoInf20/",
-    live: "https://ethz.zoom.us/j/95324347950",
-    exercise: "https://ethz.zoom.us/j/98127481382",
-    video: "",
-    moodle: ""
+    name: "Formal Methods and Functional Programming",
+    homepage: "https://infsec.ethz.ch/education/ss2021/fmfp.html",
+    live: "https://ethz.zoom.us/j/91419751086",
+    exercise: "https://ethz.zoom.us/j/95044060429",
+    moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=14733",
+    expert: "https://expert.ethz.ch",
 }, {
-    name: "Numerical Methods for CSE",
-    homepage: "NumMeth/index.html",
-    live: "https://ethz.zoom.us/j/96200716672?pwd=eitnUmlSTXdVWkRNbCs1N3VRRi9JUT09",
-    video: "",
-    moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=12705",
-    exercise: "https://ethz.zoom.us/j/9443684796",
-    expert: "https://expert.ethz.ch"
-
+    name: "Data Modeling and Databases",
+    homepage: "https://ds3lab.inf.ethz.ch/dmdb2021.html",
+    live: "https://ethz.zoom.us/j/94038190016?pwd=SWJ2QmZWdW1VRC9SMW15RjFib2hMdz09",
+    exercise: "",
+    moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=14523"
 }, {
-    name: "Systems Programming and Computer Architecture",
-    homepage: "https://systems.ethz.ch/education/courses/2020-fall/systems-programming-and-computer-architecture.html",
-    live: "https://ethz.zoom.us/j/96590075562?pwd=WWxSU2FxVXhKNHY4VVZ3ZW8zR3JCUT09",
-    video: "",
-    moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=13259",
-    exercise: "https://ethz.zoom.us/j/94013900509"
+    name: "Wahrscheinlichkeit und Statistik",
+    homepage: "https://metaphor.ethz.ch/x/2021/fs/401-0614-00L/",
+    live: "https://video.ethz.ch/live/lectures/zentrum/ml/ml-d-28.html",
+    exercise: ""
 }, {
-    name: "History of Mathematics",
-    homepage: "http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2020W&ansicht=EINSCHRAENKUNGEN&lerneinheitId=142539&lang=de",
-    live: "https://ethz.zoom.us/j/4973283252",
-    video: "",
-    moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=13291"
+    name: "Informationstheorie",
+    homepage: "http://ml2.inf.ethz.ch/courses/it/",
+    live: "https://ethz.zoom.us/j/93243919852",
+    exercise: "https://ethz.zoom.us/j/95486228994"
+}, {
+    name: "Komplexe Analysis",
+    moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=14810",
+    exercise: ""
+    
 }
 ]
