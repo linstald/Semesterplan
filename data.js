@@ -31,7 +31,8 @@ const data = [{
 }, {
     name: "Komplexe Analysis",
     moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=14810",
-    exercise: "https://ethz.zoom.us/j/5747675376"
-    
+    exercise: "https://ethz.zoom.us/j/5747675376",
+    wednesday: "https://ethz.zoom.us/j/99313212693",
+    friday: "https://ethz.zoom.us/j/97499836714"
 }
 ]
