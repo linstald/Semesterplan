@@ -36,3 +36,5 @@ const data = [{
     friday: "https://ethz.zoom.us/j/97499836714"
 }
 ]
+
+// just some changes you know
