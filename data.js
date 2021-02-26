@@ -38,5 +38,6 @@ const data = [{
 ]
 
 // i am currently testing
+// how to use git efficiently
 
 // just some new things
