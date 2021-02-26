@@ -40,4 +40,7 @@ const data = [{
 // i am currently testing
 // how to use git efficiently
 
+
+//some new stuff
+
 // just some new things
