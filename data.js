@@ -37,6 +37,4 @@ const data = [{
 }
 ]
 
-
-// just some new things
->>>>>>> 65b1979acf3916a2c749b1fcfe3f897e12c35ed7
+// just some other changes
