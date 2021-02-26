@@ -36,11 +36,3 @@ const data = [{
     thursday: "https://ethz.zoom.us/j/93076075049"
 }
 ]
-
-// i am currently testing
-// how to use git efficiently
-
-
-//some new stuff
-
-// just some new things
