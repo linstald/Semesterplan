@@ -16,7 +16,7 @@ const data = [{
     name: "Data Modeling and Databases",
     homepage: "https://ds3lab.inf.ethz.ch/dmdb2021.html",
     live: "https://ethz.zoom.us/j/94038190016?pwd=SWJ2QmZWdW1VRC9SMW15RjFib2hMdz09",
-    exercise: "",
+    exercise: "https://ethz.zoom.us/j/181233204",
     moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=14523"
 }, {
     name: "Wahrscheinlichkeit und Statistik",
