@@ -22,6 +22,7 @@ const data = [{
     name: "Wahrscheinlichkeit und Statistik",
     homepage: "https://metaphor.ethz.ch/x/2021/fs/401-0614-00L/",
     live: "https://video.ethz.ch/live/lectures/zentrum/ml/ml-d-28.html",
+    viedo: "https://video.ethz.ch/lectures/d-math/2021/spring/401-0614-00L/42b8a0ec-3532-4bd7-a991-538662911ffe.html",
     exercise: "https://ethz.zoom.us/j/92760531843"
 }, {
     name: "Informationstheorie",
@@ -31,7 +32,7 @@ const data = [{
 }, {
     name: "Komplexe Analysis",
     moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=14810",
-    exercise: "https://ethz.zoom.us/j/5747675376",
+    exercise: "https://ethz.zoom.us/j/96909340963",
     wednesday: "https://ethz.zoom.us/j/99678178288",
     thursday: "https://ethz.zoom.us/j/93076075049"
 }
