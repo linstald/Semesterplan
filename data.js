@@ -9,7 +9,7 @@ const data = [{
     name: "Formal Methods and Functional Programming",
     homepage: "https://infsec.ethz.ch/education/ss2021/fmfp.html",
     live: "https://ethz.zoom.us/j/91419751086",
-    exercise: "https://ethz.zoom.us/j/95044060429",
+    exercise: "https://ethz.zoom.us/j/66696904444",
     moodle: "https://moodle-app2.let.ethz.ch/course/view.php?id=14733",
     expert: "https://expert.ethz.ch",
 }, {
